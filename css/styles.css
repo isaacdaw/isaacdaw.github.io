@@ -11052,3 +11052,12 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.listaLenguajes {
+  list-style: none;
+  font-size: larger;
+}
+
+#hobbies {
+  font-size: 20px;
+}
